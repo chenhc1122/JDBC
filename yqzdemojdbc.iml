@@ -30,6 +30,7 @@
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-relational:2.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:2.5.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.8" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.31" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.5.2" level="project" />
@@ -72,10 +73,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-oxm:5.3.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.ws:spring-ws-core:3.1.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.ws:spring-xml:3.1.1" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.session:spring-session-jdbc:2.5.1" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.session:spring-session-core:2.5.1" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.8" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.8" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.microsoft.sqlserver:mssql-jdbc:9.2.1.jre8" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: mysql:mysql-connector-java:8.0.25" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.20" level="project" />
@@ -106,8 +103,10 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.skyscreamer:jsonassert:1.5.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.8" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.3.8" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.8.2" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:druid:1.2.6" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.12" level="project" />
   </component>
 </module>

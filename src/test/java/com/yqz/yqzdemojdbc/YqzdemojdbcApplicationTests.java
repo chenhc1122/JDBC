@@ -13,8 +13,7 @@ class YqzdemojdbcApplicationTests {
     @Autowired
     private DataSource dataSource;
     @Test
-    void contextLoads() {
-        System.out.println(dataSource);
+    public void test1(){
+        System.out.println(dataSource.getClass());
     }
-
 }
